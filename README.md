@@ -13,4 +13,4 @@ The bulk of OpenConcept's experience with openness comes from our leadership in 
 
 ### Contact Us
 
-To reach out to our team, via support@openconcept.ee or [@openconcept_ee](https://twitter.com/openconcept_ee)
+To reach out to our team, via [support@openconcept.ee](mailto:support@openconcept.ee) or [@openconcept_ee](https://twitter.com/openconcept_ee)
