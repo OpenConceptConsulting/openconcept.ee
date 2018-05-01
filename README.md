@@ -26,9 +26,9 @@ At this point we are only accepting Bitcoin & Ethereum payments. We are looking 
 
 <table>
   <tr>
-    <td><em>Bitcoin:</em></td><td>15CG6vPY3JY7AENrZMbN4uExwQtW3y14K2</td><td><a href="/images/bitcoin-QR.png"><img src="/images/bitcoin-QR.png" alt="Bitcoin image"></a></td>
+    <td><em>Bitcoin:</em></td><td>15CG6vPY3JY7AENrZMbN4uExwQtW3y14K2</td><td><a href="/images/bitcoin-QR.png"><img src="/images/bitcoin-QR.png" alt="Bitcoin image" title="Click Bitcoin Logo to make larger"></a></td>
   </tr><tr>
-    <td><em>Ethereum:</em></td><td>0xfc4afc01bffc02224105c753d205105a80b22d75</td><td><a href="/images/ethereum-QR.png"><img src="/images/ethereum-QR.png" alt="Etherium image"></a></td>
+    <td><em>Ethereum:</em></td><td>0xfc4afc01bffc02224105c753d205105a80b22d75</td><td><a href="/images/ethereum-QR.png" title="Click Etherium Logo to make larger"><img src="/images/ethereum-QR.png" alt="Etherium image"></a></td>
   </tr>
 </table>
 
