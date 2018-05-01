@@ -26,9 +26,9 @@ At this point we are only accepting Bitcoin & Ethereum payments. We are looking 
 
 <table>
   <tr>
-    <td>Bitcoin:</td><td>15CG6vPY3JY7AENrZMbN4uExwQtW3y14K2</td>
+    <td>Bitcoin:</td><td>15CG6vPY3JY7AENrZMbN4uExwQtW3y14K2</td><td><img src="/images/bitcoin-QR.png" alt="Bitcoin image"></td>
   </tr><tr>
-    <td>Ethereum:</td><td>0xfc4afc01bffc02224105c753d205105a80b22d75</td>
+    <td>Ethereum:</td><td>0xfc4afc01bffc02224105c753d205105a80b22d75</td><td><img src="/images/ethereum-QR.png" alt="Etherium image"></td>
   </tr>
 </table>
 
@@ -39,3 +39,5 @@ Ok, not many people actually believe this, but we needed to make it clear that t
 ### Contact Us
 
 To reach out to our team, via [support@openconcept.ee](mailto:support@openconcept.ee) or [@openconcept_ee](https://twitter.com/openconcept_ee)
+
+<img src="/images/OC_Bird_2014_ee.png" alt="OpenConcept EE Logo">
