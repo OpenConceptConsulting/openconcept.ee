@@ -20,6 +20,17 @@ The bulk of OpenConcept's experience with openness comes from our leadership in 
 
 Our sister company, [OpenConcept.ca](https://OpenConcept.ca) can take care of your Drupal hosting, development and support work. 
 
+### Payment Types Accepted - Cryptocurrency 
+
+At this point we are only accepting Bitcoin & Ethereum payments. We are looking into other options, but feel that this is the most appropriate form of payments for a digital first company. Other options may be considered if there is sufficient demand. 
+
+Bitcoin: 15CG6vPY3JY7AENrZMbN4uExwQtW3y14K2
+Ethereum: 0xfc4afc01bffc02224105c753d205105a80b22d75
+
+### Taxes are Sexy!
+
+Ok, not many people actually believe this, but we needed to make it clear that this isn't a tax dodge. Taxes are critical for infrastructure like the [X-Road](https://e-estonia.com/solutions/interoperability-services/x-road/) that makes this company possible. If we are considering a Guaranteed Annual Income for the citizens of the world, we really need to be finding ways for corporations to pay more taxes. 
+
 ### Contact Us
 
 To reach out to our team, via [support@openconcept.ee](mailto:support@openconcept.ee) or [@openconcept_ee](https://twitter.com/openconcept_ee)
