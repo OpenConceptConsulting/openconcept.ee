@@ -32,6 +32,8 @@ At this point we are only accepting Bitcoin & Ethereum payments. We are looking 
   </tr>
 </table>
 
+It is a best practices generate a new address for every unique transaction (or at least one-per-client) to avoid issues of tracing exactly who paid us how much and when. **Privacy is important to us,** so [contact us](mailto:support@openconcept.ee) if these public addresses are insufficient for your needs.
+
 ### Taxes are Sexy!
 
 Ok, not many people actually believe this, but we needed to make it clear that this isn't a tax dodge. Taxes are critical for infrastructure like the [X-Road](https://e-estonia.com/solutions/interoperability-services/x-road/) that makes this company possible. If we are considering a Guaranteed Annual Income for the citizens of the world, we really need to be finding ways for corporations to pay more taxes. 
