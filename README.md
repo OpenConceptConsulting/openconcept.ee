@@ -24,8 +24,13 @@ Our sister company, [OpenConcept.ca](https://OpenConcept.ca) can take care of yo
 
 At this point we are only accepting Bitcoin & Ethereum payments. We are looking into other options, but feel that this is the most appropriate form of payments for a digital first company. Other options may be considered if there is sufficient demand. 
 
-Bitcoin: 15CG6vPY3JY7AENrZMbN4uExwQtW3y14K2
-Ethereum: 0xfc4afc01bffc02224105c753d205105a80b22d75
+<table>
+  <tr>
+    <td>Bitcoin:</td><td>15CG6vPY3JY7AENrZMbN4uExwQtW3y14K2</td>
+  </tr><tr>
+    <td>Ethereum:</td><td>0xfc4afc01bffc02224105c753d205105a80b22d75</td>
+  </tr>
+</table>
 
 ### Taxes are Sexy!
 
